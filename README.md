@@ -1,2 +1,2 @@
-# PracticasSBC-rboles-
-Practicas de Sistemas Basados en el Conocimiento
+# PracticasSBCarboles-
+Practicas de Sistemas Basados en el Conocimiento con Grabriel Chilleron
